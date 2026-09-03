@@ -21,6 +21,7 @@ Minha trajetória prática envolve o desenvolvimento de aplicações e protótip
 
 ### 📊 Estatísticas do GitHub
 
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadumelo20&layout=compact&theme=nord&hide_border=true&title_color=2f80ed&text_color=434d58" alt="Linguagens mais usadas" />
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cadumelo20&show_icons=true&theme=nord&hide_border=true&title_color=2f80ed&text_color=434d58&v=1" alt="Status do GitHub de cadumelo20" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadumelo20&layout=compact&theme=nord&hide_border=true&title_color=2f80ed&text_color=434d58&v=1" alt="Linguagens mais usadas" />
 </div>
